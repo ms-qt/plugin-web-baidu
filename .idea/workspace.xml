@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="plugin-web-baidu" targetName="plugin-web-baidu_autogen" />
+      <config projectName="plugin-web-baidu" targetName="plugin-web-baidu" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug">
+        <ADDITIONAL_GENERATION_ENVIRONMENT>
+          <envs>
+            <env name="Qt5Core_DIR" value="$USER_HOME$/Qt5.14.1/5.14.1/clang_64/lib/cmake/Qt5Core" />
+            <env name="Qt5Gui_DIR" value="$USER_HOME$/Qt5.14.1/5.14.1/clang_64/lib/cmake/Qt5Gui" />
+            <env name="Qt5Network_DIR" value="$USER_HOME$/Qt5.14.1/5.14.1/clang_64/lib/cmake/Qt5Network" />
+            <env name="Qt5QmlModels_DIR" value="$USER_HOME$/Qt5.14.1/5.14.1/clang_64/lib/cmake/Qt5QmlModels" />
+            <env name="Qt5Qml_DIR" value="$USER_HOME$/Qt5.14.1/5.14.1/clang_64/lib/cmake/Qt5Qml" />
+            <env name="Qt5Quick_DIR" value="$USER_HOME$/Qt5.14.1/5.14.1/clang_64/lib/cmake/Qt5Quick" />
+            <env name="Qt5_DIR" value="$USER_HOME$/Qt5.14.1/5.14.1/clang_64/lib/cmake/Qt5" />
+            <env name="Qt5MacExtras_DIR" value="$USER_HOME$/Qt5.14.1/5.14.1/clang_64/lib/cmake/Qt5Macextras" />
+            <env name="Qt5DBus_DIR" value="$USER_HOME$/Qt5.14.1/5.14.1/clang_64/lib/cmake/Qt5DBus" />
+            <env name="folly_DIR" value="$USER_HOME$/dev/vcpkg/installed/x64-osx/share/folly" />
+            <env name="glog_DIR" value="$USER_HOME$/dev/vcpkg/installed/x64-osx/share/glog" />
+            <env name="gflags_DIR" value="$USER_HOME$/dev/vcpkg/installed/x64-osx/share/gflags" />
+            <env name="yarpl_DIR" value="/usr/local/lib/cmake/yarpl" />
+            <env name="rsocket_DIR" value="/usr/local/lib/cmake/rsocket" />
+            <env name="rxcpp_DIR" value="$USER_HOME$/dev/vcpkg/installed/x64-osx/share/rxcpp" />
+            <env name="cryptopp_DIR" value="$USER_HOME$/dev/vcpkg/installed/x64-osx/share/cryptopp" />
+            <env name="rxqt_DIR" value="$USER_HOME$/dev/vcpkg/installed/x64-osx/share/rxqt" />
+            <env name="Qt5WebSockets_DIR" value="$USER_HOME$/Qt5.14.1/5.14.1/clang_64/lib/cmake/Qt5WebSockets" />
+          </envs>
+        </ADDITIONAL_GENERATION_ENVIRONMENT>
+      </configuration>
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8e01ea43-9bc4-4bf1-a446-19f6609c61a6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1YbRCKO4WpETW430Vbq8unKorfC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="CMakeSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.plugin-web-baidu">
+    <configuration name="plugin-web-baidu" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="plugin-web-baidu" TARGET_NAME="plugin-web-baidu" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="plugin-web-baidu_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="plugin-web-baidu" TARGET_NAME="plugin-web-baidu_autogen" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.plugin-web-baidu" />
+      <item itemvalue="CMake Application.plugin-web-baidu_autogen" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e01ea43-9bc4-4bf1-a446-19f6609c61a6" name="Default Changelist" comment="" />
+      <created>1583209178432</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583209178432</updated>
+      <workItem from="1583209179863" duration="1129000" />
+      <workItem from="1583211768557" duration="6111000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="966" y="341" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583209371177">
+      <screen x="0" y="23" width="1920" height="1122" />
+    </state>
+    <state x="966" y="341" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1920.1122@0.23.1920.1122" timestamp="1583209371177" />
+    <state x="653" y="317" key="#plugin-web-baidu" timestamp="1583212766800">
+      <screen x="0" y="23" width="1920" height="1121" />
+    </state>
+    <state x="653" y="317" key="#plugin-web-baidu/0.23.1920.1121@0.23.1920.1121" timestamp="1583212766800" />
+    <state x="729" y="224" key="SettingsEditor" timestamp="1583209229854">
+      <screen x="0" y="23" width="1920" height="1121" />
+    </state>
+    <state x="729" y="224" key="SettingsEditor/0.23.1920.1121@0.23.1920.1121" timestamp="1583209229854" />
+    <state x="663" y="338" width="670" height="676" key="search.everywhere.popup" timestamp="1583224241560">
+      <screen x="0" y="23" width="1920" height="1121" />
+    </state>
+    <state x="663" y="338" width="670" height="676" key="search.everywhere.popup/0.23.1920.1121@0.23.1920.1121" timestamp="1583224241560" />
+  </component>
+</project>
