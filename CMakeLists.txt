@@ -87,4 +87,4 @@ target_link_libraries(${PROJECT_NAME} PRIVATE PluginInterface)
 
 target_compile_definitions(${PROJECT_NAME} PRIVATE PLUGINWEB_LIBRARY)
 
-set(pluginconfig.json)
+set(manifest.json)
