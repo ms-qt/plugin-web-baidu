@@ -1,14 +1,14 @@
 {
+  "id": "baidu",
+  "name": "百度搜索工具",
   "author": "毛华伟",
   "date": "2020/03/03",
-  "name": "百度搜索工具",
   "version_name": "dev-laster",
   "version_code": "1",
   "desc": "中文检索引擎",
   "icon_local": "qrc:/images/image_baidu.png",
   "icon_remotely": "https://... 配置 cdn 地址",
   "force_update": "true",
-  "id": "baidu",
   "independent_window": false,
   "main_qml": "qrc:/qml/web/baidu.qml"
 }
