@@ -8,7 +8,7 @@
   "desc": "中文检索引擎",
   "icon_local": "qrc:/images/image_baidu.png",
   "icon_remotely": "https://... 配置 cdn 地址",
-  "force_update": "true",
+  "force_update": true,
   "independent_window": false,
   "main_qml": "qrc:/qml/plugin/web/baidu.qml"
 }
