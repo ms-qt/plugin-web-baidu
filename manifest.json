@@ -10,5 +10,5 @@
   "icon_remotely": "https://... 配置 cdn 地址",
   "force_update": "true",
   "independent_window": false,
-  "main_qml": "qrc:/plugin/qml/web/baidu.qml"
+  "main_qml": "qrc:/qml/plugin/web/baidu.qml"
 }
