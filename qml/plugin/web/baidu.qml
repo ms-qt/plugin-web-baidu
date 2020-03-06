@@ -10,7 +10,6 @@ Item {
     width: parent.width
     height: parent.height
 
-
     WebEngineView {
         id: webEngineView
         // 网页路径
@@ -36,7 +35,6 @@ Item {
 
             } else{
                 grantFeaturePermission(securityOrigin,feature,false)
-
             }
         }
     }

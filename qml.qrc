@@ -1,5 +1,5 @@
 <RCC>
     <qresource prefix="/">
-        <file>qml/web/baidu.qml</file>
+        <file>qml/plugin/web/baidu.qml</file>
     </qresource>
 </RCC>
