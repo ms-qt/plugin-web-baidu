@@ -34,13 +34,13 @@ void Baidu::loader()
         "\"version\""
         "}");
 
-    PluginMetaData *data = new PluginMetaData();
+    bdlbsc::PluginMetaData *data = new bdlbsc::PluginMetaData();
     QString str = QJsonDocument(qJsonObject).toJson();
     data->setData(&str);
     emit sendMessage(data);
 }
 
-void Baidu::receiveMessage(PluginMetaData *data)
+void Baidu::receiveMessage(bdlbsc::PluginMetaData *data)
 {
     qDebug() << " Login::receiveMessage ";
 

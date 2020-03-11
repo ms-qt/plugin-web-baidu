@@ -13,12 +13,13 @@
 #include <QQmlApplicationEngine>
 #include <QtWebEngine>
 
-#include <apppluginterface/IAppPluginInterface.h>
-#include <apppluginterface/PluginMetaData.h>
+#include <bdlbsc/app/plugin/interface/IAppPluginInterface.h>
+#include <bdlbsc/app/plugin/interface/PluginMetaData.h>
+
 
 #include "plugin-baidu_global.h"
 
-class PLUGINBAIDU_EXPORT Baidu : public IAppPluginInterface
+class PLUGINBAIDU_EXPORT Baidu : public bdlbsc::IAppPluginInterface
 {
     Q_OBJECT
     Q_PLUGIN_METADATA(IID IAppPluginInterface_iid FILE "manifest.json")
@@ -31,11 +32,11 @@ public:
 
 signals:
 
-    void sendMessage(PluginMetaData *data) override;
+    void sendMessage(bdlbsc::PluginMetaData *data) override;
 
 public slots:
 
-    void receiveMessage(PluginMetaData *data) override;
+    void receiveMessage(bdlbsc::PluginMetaData *data) override;
 
 private:
     QQmlApplicationEngine engine;
