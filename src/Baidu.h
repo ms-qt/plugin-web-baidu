@@ -22,8 +22,8 @@
 class PLUGINBAIDU_EXPORT Baidu : public bdlbsc::IAppPluginInterface
 {
     Q_OBJECT
-    Q_PLUGIN_METADATA(IID IAppPluginInterface_iid FILE "manifest.json")
-    Q_INTERFACES(IAppPluginInterface)
+    Q_PLUGIN_METADATA(IID BDLBSC_APP_PLUGIN_INTERFACE_IID FILE "manifest.json")
+    Q_INTERFACES(bdlbsc::IAppPluginInterface)
 public:
     Baidu();
     ~Baidu() override;
